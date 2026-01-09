@@ -1,0 +1,2 @@
+select left(surname, 3), nationality, driverID
+from formula_one.dbo.drivers;E
